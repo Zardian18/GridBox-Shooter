@@ -1,7 +1,8 @@
 # GridBox-Shooter
-A FPS game i made using unity.
-Kills as many enemies as possible to get the maximum score!
-#Screenshots
+A FPS game i made using unity. </br>
+Kills as many enemies as possible to get the maximum score! </br>
+
+#Screenshots </br>
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/106113538/178132552-0f923d0b-6083-4bf4-be1a-76f950b1d28d.png) </br>
 ![Screenshot (127)](https://user-images.githubusercontent.com/106113538/178132556-f355a83f-eb87-4e96-8258-ce8354ee9832.png)</br>
